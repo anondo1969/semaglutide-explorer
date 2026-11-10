@@ -1,0 +1,4 @@
+# Pinned, minimal runtime dependencies (Python 3.12).
+streamlit==1.51.0
+pandas==2.2.3
+plotly==6.5.2
